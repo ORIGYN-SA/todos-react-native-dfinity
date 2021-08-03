@@ -1,3 +1,7 @@
+## Preview
+
+![Todo preview](./preview.gif)
+
 ## Patches
 
 1) react-native-fetch-api
